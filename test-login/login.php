@@ -57,7 +57,7 @@ body {
 
     <div class="container">
       
-      <form class="form-signin" action="verif.php" method=post>
+      <form class="form-signin" action="checking.php" method=post>
         <h2 class="form-signin-heading">login</h2>
         <label for="login" class="sr-only">
           Login
